@@ -1,3 +1,3 @@
 # odin-recipes
 
-learning html ahh
+learning html :)
